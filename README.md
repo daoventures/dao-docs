@@ -8,8 +8,8 @@ Imagine a fund manager (VC) on DeFi. Pooled investment fund based on Ethereum’
 ### Yield Farming
 Generate yield simply by choosing a portfolio. Choose from a range of different yield farming strategies from low risk low reward, to high risk high reward.
 
-#### Contract Addresses
-#### Yearn Farmer
+## Contract Addresses
+### Yearn Farmer
 
 **Yearn-Farmer USDT v2 address**:  0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2\
 **DAO Vault Medium USDT address**:  0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7 
@@ -23,7 +23,7 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 **Yearn-Farmer TUSD v2 address**:  0xA6F1409a259B21a84c8346ED1B0826D656959a54\
 **DAO Vault Medium TUSD address**:  0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6
 
-#### Compound Farmer
+### Compound Farmer
 **DAO Vault Low USDT address**: 0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78\
 **Compound Farmer USDT address**: 0x11Af10648ed5094f41753ccB69a2f74135697631
 
