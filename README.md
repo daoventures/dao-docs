@@ -49,6 +49,6 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 
 |Strategies|Address|
 |----------|-------|
-|[Yearn-Farmer USDT](https://etherscan.io/address/0x11Af10648ed5094f41753ccB69a2f74135697631)|0x11Af10648ed5094f41753ccB69a2f74135697631|
-|[Yearn-Farmer USDC](https://etherscan.io/address/0x11Af10648ed5094f41753ccB69a2f74135697631)|0x11Af10648ed5094f41753ccB69a2f74135697631|
-|[Yearn-Farmer DAI](https://etherscan.io/address/0x11Af10648ed5094f41753ccB69a2f74135697631)|0x11Af10648ed5094f41753ccB69a2f74135697631|
+|[Compound-Farmer USDT](https://etherscan.io/address/0x11Af10648ed5094f41753ccB69a2f74135697631)|0x11Af10648ed5094f41753ccB69a2f74135697631|
+|[Compound-Farmer USDC](https://etherscan.io/address/0x89bE389b0529CA3187B6e81e689496cB3Bad8557)|0x89bE389b0529CA3187B6e81e689496cB3Bad8557|
+|[Compound-Farmer DAI](https://etherscan.io/address/0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581)|0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581|
