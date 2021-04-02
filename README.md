@@ -5,7 +5,7 @@ Imagine a fund manager (VC) on DeFi. Pooled investment fund based on Ethereum’
 
 # Core Products
 
-## Yield Farming
+### Yield Farming
 Generate yield simply by choosing a portfolio. Choose from a range of different yield farming strategies from low risk low reward, to high risk high reward.
 
 ### Mainnet Contracts
