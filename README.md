@@ -10,11 +10,11 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 
 ### Mainnet Contracts
 #### Yearn Farmer
-Yearn-Farmer USDT v2 address:  0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2
-DAO Vault Medium USDT address:  0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7
+Yearn-Farmer USDT v2 address:  0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2 
+DAO Vault Medium USDT address:  0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7 
 
-Yearn-Farmer USDC v2 address:  0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D
-DAO Vault Medium USDC address:  0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E
+Yearn-Farmer USDC v2 address:  0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D 
+DAO Vault Medium USDC address:  0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E 
 
 Yearn-Farmer DAI v2 address:  0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71
 DAO Vault Medium DAI address:  0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770
