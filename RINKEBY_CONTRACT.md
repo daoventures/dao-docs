@@ -1,7 +1,7 @@
 
 # Introduction to DAO
 
-### This is Rinkeby Network that used for development and testing purpose only.
+### This is for Rinkeby Network that used for development and testing purpose only.
 
 DAOventures is a DeFi robo-advisor and automated money manager for decentralized finance (DeFi). With smart contracts and automated robo-traders, DAOventures invest in the best performing DeFi assets for most optimized return.
 
