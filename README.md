@@ -17,6 +17,7 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 | Token | Mainnet Address                                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------------------------------- |
 | DVG   | [0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c](https://etherscan.io/address/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c) |
+
 ### Yearn Farmer
 
 #### Vaults
