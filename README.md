@@ -30,22 +30,22 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 
 #### Strategies
 
-| Strategies          | Mainnet Address                                                                                                       | Rinkeby Address                                                                                                               |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Yearn-Farmer USDT] | [0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2](https://etherscan.io/address/0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2) | [0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615](https://rinkeby.etherscan.io/address/0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615) |
-| [Yearn-Farmer USDC] | [0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D](https://etherscan.io/address/0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D) | [0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac](https://rinkeby.etherscan.io/address/0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac) |
-| [Yearn-Farmer DAI]  | [0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71](https://etherscan.io/address/0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71) | [0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E](https://rinkeby.etherscan.io/address/0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E) |
-| [Yearn-Farmer TUSD] | [0xA6F1409a259B21a84c8346ED1B0826D656959a54](https://etherscan.io/address/0xA6F1409a259B21a84c8346ED1B0826D656959a54) | [0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610](https://rinkeby.etherscan.io/address/0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610) |
+| Strategies        | Mainnet Address                                                                                                       | Rinkeby Address                                                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Yearn-Farmer USDT | [0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2](https://etherscan.io/address/0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2) | [0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615](https://rinkeby.etherscan.io/address/0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615) |
+| Yearn-Farmer USDC | [0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D](https://etherscan.io/address/0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D) | [0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac](https://rinkeby.etherscan.io/address/0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac) |
+| Yearn-Farmer DAI  | [0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71](https://etherscan.io/address/0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71) | [0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E](https://rinkeby.etherscan.io/address/0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E) |
+| Yearn-Farmer TUSD | [0xA6F1409a259B21a84c8346ED1B0826D656959a54](https://etherscan.io/address/0xA6F1409a259B21a84c8346ED1B0826D656959a54) | [0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610](https://rinkeby.etherscan.io/address/0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610) |
 
 ### Compound Farmer
 
 #### Vaults
 
-| Vaults             | Address                                                                                                               | Kovan Address                                                                                                               |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| DAO Vault Low USDT | [0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78](https://etherscan.io/address/0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78) | [0x5d102E0Bdf2037899E1FF2E8cc50987108533c52](https://kovan.etherscan.io/address/0x5d102E0Bdf2037899E1FF2E8cc50987108533c52) |
-| DAO Vault Low USDC | [0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9](https://etherscan.io/address/0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9) | [0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E](0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E )                                   |
-| DAO Vault Low DAI  | [0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6](https://etherscan.io/address/0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6) | [0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D](0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D)                                    |
+| Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| DAO Vault Low USDT | [0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78](https://etherscan.io/address/0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78) | [0x5d102E0Bdf2037899E1FF2E8cc50987108533c52](https://kovan.etherscan.io/address/0x5d102E0Bdf2037899E1FF2E8cc50987108533c52)  |
+| DAO Vault Low USDC | [0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9](https://etherscan.io/address/0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9) | [0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E](https://kovan.etherscan.io/address/0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E ) |
+| DAO Vault Low DAI  | [0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6](https://etherscan.io/address/0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6) | [0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D](https://kovan.etherscan.io/address/0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D)  |
 
 #### Strategies
 
