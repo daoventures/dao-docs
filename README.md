@@ -2,7 +2,7 @@
 
 DAOventures is a DeFi robo-advisor and automated money manager for decentralized finance (DeFi). With smart contracts and automated robo-traders, DAOventures invest in the best performing DeFi assets for most optimized return.
 
-Imagine a fund manager (VC) on DeFi. Pooled investment fund based on Ethereum’s smart-contract that automatically invests in decentralized finance protocols and generates returns for liquidity providers (LP). 
+Imagine a fund manager (VC) on DeFi. Pooled investment fund based on Ethereum’s smart-contract that automatically invests in decentralized finance protocols and generates returns for liquidity providers (LP).
 
 ## Core Products
 
