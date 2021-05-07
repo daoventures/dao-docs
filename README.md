@@ -22,21 +22,21 @@ Generate yield simply by choosing a portfolio. Choose from a range of different 
 
 #### Vaults
 
-| Vaults                | Mainnet Address                                                                                                       | Rinkeby Address                                                                                                               |
+| Vaults                | Mainnet Address                                                                                                       | Kovan Address                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| DAO Vault Medium USDT | [0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7](https://etherscan.io/address/0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7) | [0x132b495eC9451c9D572A791Ef9cB6f96Dcb67020](https://rinkeby.etherscan.io/address/0x132b495eC9451c9D572A791Ef9cB6f96Dcb67020) |
-| DAO Vault Medium USDC | [0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E](https://etherscan.io/address/0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E) | [0xBdf7cC9c7a9dFF3d54Aa976e9586CE9935484005](https://rinkeby.etherscan.io/address/0xBdf7cC9c7a9dFF3d54Aa976e9586CE9935484005) |
-| DAO Vault Medium DAI  | [0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770](https://etherscan.io/address/0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770) | [0x2BB53Ee2592319e3c3cF2323f1a81B1bF7854B7C](https://rinkeby.etherscan.io/address/0x2BB53Ee2592319e3c3cF2323f1a81B1bF7854B7C) |
-| DAO Vault Medium TUSD | [0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6](https://etherscan.io/address/0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6) | [0xa8B73aE1E978315886E318FB086504231A3Ef917](https://rinkeby.etherscan.io/address/0xa8B73aE1E978315886E318FB086504231A3Ef917) |
+| DAO Vault Medium USDT | [0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7](https://etherscan.io/address/0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7) | [0x6B150E9BD70E216775c8b73270E64e870a3110c1](https://kovan.etherscan.io/address/0x6B150E9BD70E216775c8b73270E64e870a3110c1) |
+| DAO Vault Medium USDC | [0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E](https://etherscan.io/address/0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E) | [0x6E15e283dc430eca010Ade8b11b5B377902d6e56](https://kovan.etherscan.io/address/0x6E15e283dc430eca010Ade8b11b5B377902d6e56) |
+| DAO Vault Medium DAI  | [0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770](https://etherscan.io/address/0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770) | [0x2428bFD238a3632552B343297c504F60283009eD](https://kovan.etherscan.io/address/0x2428bFD238a3632552B343297c504F60283009eD) |
+| DAO Vault Medium TUSD | [0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6](https://etherscan.io/address/0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6) | [0xbA1B6800EB938195b5F92a7dA3d3DF358993AAbf](https://kovan.etherscan.io/address/0xbA1B6800EB938195b5F92a7dA3d3DF358993AAbf) |
 
 #### Strategies
 
-| Strategies        | Mainnet Address                                                                                                       | Rinkeby Address                                                                                                               |
+| Strategies        | Mainnet Address                                                                                                       | Kovan Address                                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Yearn-Farmer USDT | [0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2](https://etherscan.io/address/0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2) | [0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615](https://rinkeby.etherscan.io/address/0x157fbaCbbf6BA50c45E1375aE728f88F0CDe1615) |
-| Yearn-Farmer USDC | [0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D](https://etherscan.io/address/0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D) | [0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac](https://rinkeby.etherscan.io/address/0xf5A1988A9d02cE26B2cCA31a56368E5f6a9B55Ac) |
-| Yearn-Farmer DAI  | [0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71](https://etherscan.io/address/0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71) | [0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E](https://rinkeby.etherscan.io/address/0x26Cd801A2dbd05CAad547B9D67ac2665E45dBC7E) |
-| Yearn-Farmer TUSD | [0xA6F1409a259B21a84c8346ED1B0826D656959a54](https://etherscan.io/address/0xA6F1409a259B21a84c8346ED1B0826D656959a54) | [0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610](https://rinkeby.etherscan.io/address/0x5ABeAdF41Fe9eA8dbD49DDf4e9659dd098da9610) |
+| Yearn-Farmer USDT | [0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2](https://etherscan.io/address/0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2) | [0x31324c1c0bB6B4B6f8102AcB8346b065307926fa](https://kovan.etherscan.io/address/0x31324c1c0bB6B4B6f8102AcB8346b065307926fa) |
+| Yearn-Farmer USDC | [0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D](https://etherscan.io/address/0x4A9dE4dA5eC67E1dbc8e18F26E178B40D690A11D) | [0xE77Ad5E2c4E7143fDBaC6a4dDe891727fc395c75](https://kovan.etherscan.io/address/0xE77Ad5E2c4E7143fDBaC6a4dDe891727fc395c75) |
+| Yearn-Farmer DAI  | [0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71](https://etherscan.io/address/0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71) | [0x8615dFB5B53e9Ddb3751fbc3fC59512d4ABA9A22](https://kovan.etherscan.io/address/0x8615dFB5B53e9Ddb3751fbc3fC59512d4ABA9A22) |
+| Yearn-Farmer TUSD | [0xA6F1409a259B21a84c8346ED1B0826D656959a54](https://etherscan.io/address/0xA6F1409a259B21a84c8346ED1B0826D656959a54) | [0x139A49Bed3bCe7136b53174a243D9AD63631f9df](https://kovan.etherscan.io/address/0x139A49Bed3bCe7136b53174a243D9AD63631f9df) |
 
 ### Compound Farmer
 
