@@ -11,6 +11,9 @@ Imagine a fund manager (VC) on DeFi. Pooled investment fund based on Ethereum’
 Generate yield simply by choosing a portfolio. Choose from a range of different yield farming strategies from low risk low reward, to high risk high reward.
 
 ## Contract Addresses
+Notes: 
+1. TUSD in Kovan network need to invoke <b>mint</b> method from the token contract [0xf0a112a9Da3CaE4668270729C3d5917b6cb79564](https://kovan.etherscan.io/address/0xf0a112a9da3cae4668270729c3d5917b6cb79564) yourself.
+2. USDT, DAI and USDC in Kovan network can be obtained from the faucet from Withdraw section of the token from [https://app.compound.finance/](https://app.compound.finance/).
 
 ### Token Address
 
