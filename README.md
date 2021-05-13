@@ -17,9 +17,9 @@ Notes:
 
 ### Token Address
 
-| Token | Mainnet Address                                                                                                       |
-| ----- | --------------------------------------------------------------------------------------------------------------------- |
-| DVG   | [0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c](https://etherscan.io/address/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c) |
+| Token | Mainnet Address                                                                                                       | Kovan Address
+| ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| DVG   | [0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c](https://etherscan.io/address/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c) | [0xea9726eFc9831EF0499fD4Db4Ab143F15a797673](https://kovan.etherscan.io/address/0xea9726eFc9831EF0499fD4Db4Ab143F15a797673) |
 
 ### Yearn Farmer
 
