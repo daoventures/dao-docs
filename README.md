@@ -38,10 +38,10 @@ Notes:
 
 | Vaults                | Mainnet Address                                                                                                       | Kovan Address                                                                                                               |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| DAO Vault Medium USDT | [0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7](https://etherscan.io/address/0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7) | [0x6B150E9BD70E216775c8b73270E64e870a3110c1](https://kovan.etherscan.io/address/0x6B150E9BD70E216775c8b73270E64e870a3110c1) |
-| DAO Vault Medium USDC | [0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E](https://etherscan.io/address/0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E) | [0x6E15e283dc430eca010Ade8b11b5B377902d6e56](https://kovan.etherscan.io/address/0x6E15e283dc430eca010Ade8b11b5B377902d6e56) |
-| DAO Vault Medium DAI  | [0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770](https://etherscan.io/address/0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770) | [0x2428bFD238a3632552B343297c504F60283009eD](https://kovan.etherscan.io/address/0x2428bFD238a3632552B343297c504F60283009eD) |
-| DAO Vault Medium TUSD | [0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6](https://etherscan.io/address/0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6) | [0xEcCb98c36bfc8c49c6065d1cD90bcf1c6F02D4AD](https://kovan.etherscan.io/address/0xEcCb98c36bfc8c49c6065d1cD90bcf1c6F02D4AD) |
+| YearnFighter USDT | [0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7](https://etherscan.io/address/0x4F0C1c9bA6B9CCd0BEd6166e86b672ac8EE621F7) | [0x6B150E9BD70E216775c8b73270E64e870a3110c1](https://kovan.etherscan.io/address/0x6B150E9BD70E216775c8b73270E64e870a3110c1) |
+| YearnFighter USDC | [0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E](https://etherscan.io/address/0x9f0230FbDC0379E5FefAcca89bE03A42Fec5fb6E) | [0x6E15e283dc430eca010Ade8b11b5B377902d6e56](https://kovan.etherscan.io/address/0x6E15e283dc430eca010Ade8b11b5B377902d6e56) |
+| YearnFighter DAI  | [0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770](https://etherscan.io/address/0x2bFc2Da293C911e5FfeC4D2A2946A599Bc4Ae770) | [0x2428bFD238a3632552B343297c504F60283009eD](https://kovan.etherscan.io/address/0x2428bFD238a3632552B343297c504F60283009eD) |
+| YearnFighter TUSD | [0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6](https://etherscan.io/address/0x2C8de02aD4312069355B94Fb936EFE6CFE0C8FF6) | [0xEcCb98c36bfc8c49c6065d1cD90bcf1c6F02D4AD](https://kovan.etherscan.io/address/0xEcCb98c36bfc8c49c6065d1cD90bcf1c6F02D4AD) |
 
 #### Strategies
 
@@ -58,9 +58,9 @@ Notes:
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| DAO Vault Low USDT | [0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78](https://etherscan.io/address/0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78) | [0x5d102E0Bdf2037899E1FF2E8cc50987108533c52](https://kovan.etherscan.io/address/0x5d102E0Bdf2037899E1FF2E8cc50987108533c52)  |
-| DAO Vault Low USDC | [0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9](https://etherscan.io/address/0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9) | [0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E](https://kovan.etherscan.io/address/0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E ) |
-| DAO Vault Low DAI  | [0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6](https://etherscan.io/address/0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6) | [0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D](https://kovan.etherscan.io/address/0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D)  |
+| CompoundFighter USDT | [0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78](https://etherscan.io/address/0xEeCe6AD323a93d4B021BDAaC587DCC04b5cf0a78) | [0x5d102E0Bdf2037899E1FF2E8cc50987108533c52](https://kovan.etherscan.io/address/0x5d102E0Bdf2037899E1FF2E8cc50987108533c52)  |
+| CompoundFighter USDC | [0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9](https://etherscan.io/address/0xd1D7f950899C0269a7F2aad5E854cdc3a1350ba9) | [0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E](https://kovan.etherscan.io/address/0x05AB7659e6Ef9Ba1a5F790b402fD1688F01b003E ) |
+| CompoundFighter DAI  | [0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6](https://etherscan.io/address/0x43C20638C3914Eca3c96e9cAc8ebE7d652Be45c6) | [0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D](https://kovan.etherscan.io/address/0x47E565B1e23cdA3D6bB69e7ae398b884f5ADdc7D)  |
 
 #### Strategies
 
@@ -76,9 +76,9 @@ Notes:
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| DAOVault Medium-Risk USDT |  | [0xb41A49De82e95dc1E028839C3440Ac97f9A7832C](https://kovan.etherscan.io/address/0xb41A49De82e95dc1E028839C3440Ac97f9A7832C)  |
-| DAOVault Medium-Risk USDC |  | [0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A](https://kovan.etherscan.io/address/0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A ) |
-| DAOVault Medium-Risk DAI  |  | [0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC](https://kovan.etherscan.io/address/0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC)  |
+| HarvestFighter USDT |  | [0xb41A49De82e95dc1E028839C3440Ac97f9A7832C](https://kovan.etherscan.io/address/0xb41A49De82e95dc1E028839C3440Ac97f9A7832C)  |
+| DHarvestFighter USDC |  | [0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A](https://kovan.etherscan.io/address/0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A ) |
+| HarvestFighter DAI  |  | [0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC](https://kovan.etherscan.io/address/0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC)  |
 
 #### Strategies
 
