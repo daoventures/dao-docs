@@ -25,7 +25,7 @@ Notes:
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | xDVG   |  | [0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424](https://kovan.etherscan.io/address/0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424) |
-| DVGUniBot   |  | [0xc517eC2fe6b01d657387B2BB41B4914853c239b9](https://kovan.etherscan.io/address/0xc517eC2fe6b01d657387B2BB41B4914853c239b9) |
+| DVGUniBot   |  | [0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312](https://kovan.etherscan.io/address/0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312) |
 
 ### DAOstake
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
