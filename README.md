@@ -69,3 +69,21 @@ Notes:
 | Compound-Farmer USDT | [0x11Af10648ed5094f41753ccB69a2f74135697631](https://etherscan.io/address/0x11Af10648ed5094f41753ccB69a2f74135697631) | [0xA5c956AeF6a21C986665de9CF889EF36613c7d5E](https://kovan.etherscan.io/address/0xA5c956AeF6a21C986665de9CF889EF36613c7d5E) |
 | Compound-Farmer USDC | [0x89bE389b0529CA3187B6e81e689496cB3Bad8557](https://etherscan.io/address/0x89bE389b0529CA3187B6e81e689496cB3Bad8557) | [0x3Add8a9d3176c4B30DdDEeabABf9CA5cC3d49944](https://kovan.etherscan.io/address/0x3Add8a9d3176c4B30DdDEeabABf9CA5cC3d49944) |
 | Compound-Farmer DAI  | [0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581](https://etherscan.io/address/0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581) | [0xB951976a7d79FD8A589a7CA9753641380F5C1aB4](https://kovan.etherscan.io/address/0xB951976a7d79FD8A589a7CA9753641380F5C1aB4) |
+
+### Harvest Farmer
+
+#### Vaults
+
+| Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| DAOVault Medium-Risk USDT |  | [0xb41A49De82e95dc1E028839C3440Ac97f9A7832C](https://kovan.etherscan.io/address/0xb41A49De82e95dc1E028839C3440Ac97f9A7832C)  |
+| DAOVault Medium-Risk USDC |  | [0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A](https://kovan.etherscan.io/address/0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A ) |
+| DAOVault Medium-Risk DAI  |  | [0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC](https://kovan.etherscan.io/address/0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC)  |
+
+#### Strategies
+
+| Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Harvest-Farmer USDT |  | [0x0bFA86d10A383B435748E39Cedf8852CFD2B1A9d](https://kovan.etherscan.io/address/0x0bFA86d10A383B435748E39Cedf8852CFD2B1A9d) |
+| Harvest-Farmer USDC |  | [0xE5331cAF0B4E15C88E878551b93df0647738Af35](https://kovan.etherscan.io/address/0xE5331cAF0B4E15C88E878551b93df0647738Af35) |
+| Harvest-Farmer DAI  |  | [0x1032E051bc71D36D82F2FDE298cee1311852Dd29](https://kovan.etherscan.io/address/0x1032E051bc71D36D82F2FDE298cee1311852Dd29) |
