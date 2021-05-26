@@ -30,7 +30,7 @@ Notes:
 ### DAOstake
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| DAOstake   |  | [0x949798E1DC431338948653e1274E30C33Db42Ad8](https://kovan.etherscan.io/address/0x949798E1DC431338948653e1274E30C33Db42Ad8) |
+| DAOstake   |  | [0x2d04c8A39fe41Dc94595Df81ABDaB1dD905B38B3](https://kovan.etherscan.io/address/0x2d04c8A39fe41Dc94595Df81ABDaB1dD905B38B3) |
 
 ### Yearn Farmer
 
