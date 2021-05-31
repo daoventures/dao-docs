@@ -32,7 +32,7 @@ Notes:
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | DAOstake   |  | [0x2d04c8A39fe41Dc94595Df81ABDaB1dD905B38B3](https://kovan.etherscan.io/address/0x2d04c8A39fe41Dc94595Df81ABDaB1dD905B38B3) |
 
-### Yearn Farmer
+### Yearn Fighter
 
 #### Vaults
 
@@ -52,7 +52,7 @@ Notes:
 | Yearn-Farmer DAI  | [0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71](https://etherscan.io/address/0x3685fB7CA1C555Cb5BD5A246422ee1f2c53DdB71) | [0x8615dFB5B53e9Ddb3751fbc3fC59512d4ABA9A22](https://kovan.etherscan.io/address/0x8615dFB5B53e9Ddb3751fbc3fC59512d4ABA9A22) |
 | Yearn-Farmer TUSD | [0xA6F1409a259B21a84c8346ED1B0826D656959a54](https://etherscan.io/address/0xA6F1409a259B21a84c8346ED1B0826D656959a54) | [0xF64674Cfc6597D597275144a1A746DAd564b0fcd](https://kovan.etherscan.io/address/0xF64674Cfc6597D597275144a1A746DAd564b0fcd) |
 
-### Compound Farmer
+### Compound Fighter
 
 #### Vaults
 
@@ -70,7 +70,7 @@ Notes:
 | Compound-Farmer USDC | [0x89bE389b0529CA3187B6e81e689496cB3Bad8557](https://etherscan.io/address/0x89bE389b0529CA3187B6e81e689496cB3Bad8557) | [0x3Add8a9d3176c4B30DdDEeabABf9CA5cC3d49944](https://kovan.etherscan.io/address/0x3Add8a9d3176c4B30DdDEeabABf9CA5cC3d49944) |
 | Compound-Farmer DAI  | [0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581](https://etherscan.io/address/0x0C5cff1C9Ec7Ce8e28998503471B19c848c5a581) | [0xB951976a7d79FD8A589a7CA9753641380F5C1aB4](https://kovan.etherscan.io/address/0xB951976a7d79FD8A589a7CA9753641380F5C1aB4) |
 
-### Harvest Farmer
+### Harvest Fighter
 
 #### Vaults
 
@@ -87,3 +87,17 @@ Notes:
 | Harvest-Farmer USDT |  | [0x0bFA86d10A383B435748E39Cedf8852CFD2B1A9d](https://kovan.etherscan.io/address/0x0bFA86d10A383B435748E39Cedf8852CFD2B1A9d) |
 | Harvest-Farmer USDC |  | [0xE5331cAF0B4E15C88E878551b93df0647738Af35](https://kovan.etherscan.io/address/0xE5331cAF0B4E15C88E878551b93df0647738Af35) |
 | Harvest-Farmer DAI  |  | [0x1032E051bc71D36D82F2FDE298cee1311852Dd29](https://kovan.etherscan.io/address/0x1032E051bc71D36D82F2FDE298cee1311852Dd29) |
+
+### DAO Citadel
+
+#### Vaults
+
+| Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| DAO Citadel Vault |  | [0x542a42496C96b946324f7dce2B030d5643d9eF8A](https://kovan.etherscan.io/address/0x542a42496C96b946324f7dce2B030d5643d9eF8A)  |
+
+#### Strategies
+
+| Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| DAO Citadel Strategy |  | [0x4996b12560B9A4A85DD437A3e8ff489335dCffA7](https://kovan.etherscan.io/address/0x4996b12560B9A4A85DD437A3e8ff489335dCffA7) |
