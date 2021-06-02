@@ -77,7 +77,7 @@ Notes:
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | HarvestFighter USDT |  | [0xb41A49De82e95dc1E028839C3440Ac97f9A7832C](https://kovan.etherscan.io/address/0xb41A49De82e95dc1E028839C3440Ac97f9A7832C)  |
-| DHarvestFighter USDC |  | [0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A](https://kovan.etherscan.io/address/0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A ) |
+| HarvestFighter USDC |  | [0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A](https://kovan.etherscan.io/address/0x54783464848b35d6fb9bba37C1dDd23aC3B1A11A ) |
 | HarvestFighter DAI  |  | [0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC](https://kovan.etherscan.io/address/0x0f89EE5b95d1d5cfb10F29775d816fC6D8Adb9FC)  |
 
 #### Strategies
