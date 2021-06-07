@@ -76,17 +76,17 @@ Notes:
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| HarvestFighter USDT |  | [0x193ae175ED2611DC89c0BFf3f285D7a478e4d9e3](https://kovan.etherscan.io/address/0x193ae175ED2611DC89c0BFf3f285D7a478e4d9e3)  |
-| HarvestFighter USDC |  | [0x9cBE08Ab1CEfAeBD3eEcBA49FC815b9Ea7cc4d47](https://kovan.etherscan.io/address/0x9cBE08Ab1CEfAeBD3eEcBA49FC815b9Ea7cc4d47 ) |
-| HarvestFighter DAI  |  | [0x456F74F54b533DF2E6EE5AC10287DaBaE0A9c7c6](https://kovan.etherscan.io/address/0x456F74F54b533DF2E6EE5AC10287DaBaE0A9c7c6)  |
+| HarvestFighter USDT |  | [0x35880615bb18DA592FF0fEb0940ADE2c02249715](https://kovan.etherscan.io/address/0x35880615bb18DA592FF0fEb0940ADE2c02249715)  |
+| HarvestFighter USDC |  | [0x68b1C860300c4f7d577f08D8B3c3AEe23887b280](https://kovan.etherscan.io/address/0x68b1C860300c4f7d577f08D8B3c3AEe23887b280 ) |
+| HarvestFighter DAI  |  | [0x6D7e8fA90C1ffdC019d691BAFC18D6362FdEeCd7](https://kovan.etherscan.io/address/0x6D7e8fA90C1ffdC019d691BAFC18D6362FdEeCd7)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Harvest-Farmer USDT |  | [0x29505349D067cc2AF058B47A6aAFb10696D15828](https://kovan.etherscan.io/address/0x29505349D067cc2AF058B47A6aAFb10696D15828) |
-| Harvest-Farmer USDC |  | [0x634d50E16D185647644ec7014F57a0e61F442a84](https://kovan.etherscan.io/address/0x634d50E16D185647644ec7014F57a0e61F442a84) |
-| Harvest-Farmer DAI  |  | [0xc851A604622539383A488A2a7f8fcDf951151828](https://kovan.etherscan.io/address/0xc851A604622539383A488A2a7f8fcDf951151828) |
+| Harvest-Farmer USDT |  | [0xAc783Dc15d2CF08D1e1c34e18e531a9b182277b0](https://kovan.etherscan.io/address/0xAc783Dc15d2CF08D1e1c34e18e531a9b182277b0) |
+| Harvest-Farmer USDC |  | [0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2](https://kovan.etherscan.io/address/0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2) |
+| Harvest-Farmer DAI  |  | [0xdfeB689aEa68F221EaAFeEEb91767003265968D6](https://kovan.etherscan.io/address/0xdfeB689aEa68F221EaAFeEEb91767003265968D6) |
 
 ### DAO Citadel
 
