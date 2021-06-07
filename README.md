@@ -94,10 +94,10 @@ Notes:
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| DAO Citadel Vault |  | [0x542a42496C96b946324f7dce2B030d5643d9eF8A](https://kovan.etherscan.io/address/0x542a42496C96b946324f7dce2B030d5643d9eF8A)  |
+| DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x542a42496C96b946324f7dce2B030d5643d9eF8A](https://kovan.etherscan.io/address/0x542a42496C96b946324f7dce2B030d5643d9eF8A)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| DAO Citadel Strategy |  | [0x4996b12560B9A4A85DD437A3e8ff489335dCffA7](https://kovan.etherscan.io/address/0x4996b12560B9A4A85DD437A3e8ff489335dCffA7) |
+| DAO Citadel Strategy | [0x8a00046Ab28051a952e64a886cd8961ca90A59Bd](https://etherscan.io/address/0x8a00046Ab28051a952e64a886cd8961ca90A59Bd) | [0x4996b12560B9A4A85DD437A3e8ff489335dCffA7](https://kovan.etherscan.io/address/0x4996b12560B9A4A85DD437A3e8ff489335dCffA7) |
