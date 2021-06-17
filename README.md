@@ -119,9 +119,11 @@ Notes:
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Elon's Ape Vault |  | [0xf03fa8553379d872b4e2Bafbc679409Fb82604c2](https://kovan.etherscan.io/address/0xf03fa8553379d872b4e2Bafbc679409Fb82604c2)  |
+| Cuban's Ape Vault |  | [0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5](https://kovan.etherscan.io/address/0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Elon's Ape Strategy |  | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
+| Cuban's Ape Strategy |  | [0x998372C8dC70833A7dC687020257302582FA5838](https://kovan.etherscan.io/address/0x998372C8dC70833A7dC687020257302582FA5838) |
