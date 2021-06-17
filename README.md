@@ -124,4 +124,4 @@ Notes:
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| DAO Citadel Strategy |  | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
+| Elon's Ape Strategy |  | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
