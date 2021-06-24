@@ -97,19 +97,21 @@ Notes:
 | Harvest-Farmer USDC | [0x0AF9547974E056fca221F679DbBb7F8651407D7F](https://etherscan.io/address/0x0af9547974e056fca221f679dbbb7f8651407d7f) | [0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2](https://kovan.etherscan.io/address/0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2) |
 | Harvest-Farmer DAI  | [0xEf9A15025C2ED048a67c5C8019A1101172EEB51c](https://etherscan.io/address/0xef9a15025c2ed048a67c5c8019a1101172eeb51c) | [0xdfeB689aEa68F221EaAFeEEb91767003265968D6](https://kovan.etherscan.io/address/0xdfeB689aEa68F221EaAFeEEb91767003265968D6) |
 
-### DAO Citadel
+### Flagship Product
 
 #### Vaults
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x626C25cA5b86277f395c0E40DBdF51f2a302aB43](https://kovan.etherscan.io/address/0x626C25cA5b86277f395c0E40DBdF51f2a302aB43)  |
+| DAO FAANG Stonk Vault |  | [0xe97F5e5A755F8e633d23A2bae167b628deC22948](https://kovan.etherscan.io/address/0xe97F5e5A755F8e633d23A2bae167b628deC22948)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Strategy | [0x8a00046Ab28051a952e64a886cd8961ca90A59Bd](https://etherscan.io/address/0x8a00046Ab28051a952e64a886cd8961ca90A59Bd) | [0xc9939B0b2af53E8BeCBA22ab153795e168140237](https://kovan.etherscan.io/address/0xc9939B0b2af53E8BeCBA22ab153795e168140237) |
+| DAO FAANG Stonk Strategy |  | [0xCcCeD6278e9c6E68210F3BDC1bc3444e830caD33](https://kovan.etherscan.io/address/0xCcCeD6278e9c6E68210F3BDC1bc3444e830caD33) |
 
 
 ### Ape
