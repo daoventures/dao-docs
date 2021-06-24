@@ -97,7 +97,7 @@ Notes:
 | Harvest-Farmer USDC | [0x0AF9547974E056fca221F679DbBb7F8651407D7F](https://etherscan.io/address/0x0af9547974e056fca221f679dbbb7f8651407d7f) | [0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2](https://kovan.etherscan.io/address/0x7DA9e06545c4Fe6556FC0990F5AFD4955379E1D2) |
 | Harvest-Farmer DAI  | [0xEf9A15025C2ED048a67c5C8019A1101172EEB51c](https://etherscan.io/address/0xef9a15025c2ed048a67c5c8019a1101172eeb51c) | [0xdfeB689aEa68F221EaAFeEEb91767003265968D6](https://kovan.etherscan.io/address/0xdfeB689aEa68F221EaAFeEEb91767003265968D6) |
 
-### Flagship Product
+### Flagship Products
 
 #### Vaults
 
