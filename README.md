@@ -120,10 +120,10 @@ Notes:
 
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Elon's Ape Vault |  | [0xf03fa8553379d872b4e2Bafbc679409Fb82604c2](https://kovan.etherscan.io/address/0xf03fa8553379d872b4e2Bafbc679409Fb82604c2)  |
+| Elon's Ape Vault | [0x2D9a136cF87D599628BCBDfB6C4fe75Acd2A0aA8](https://etherscan.io/address/0x2D9a136cF87D599628BCBDfB6C4fe75Acd2A0aA8) | [0xf03fa8553379d872b4e2Bafbc679409Fb82604c2](https://kovan.etherscan.io/address/0xf03fa8553379d872b4e2Bafbc679409Fb82604c2)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Elon's Ape Strategy |  | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
+| Elon's Ape Strategy | [0x24D281dCc7d435500669459eAA393dC5200595B1](https://etherscan.io/address/0x24D281dCc7d435500669459eAA393dC5200595B1) | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
