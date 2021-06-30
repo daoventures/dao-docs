@@ -30,7 +30,7 @@ Notes:
 ### DAOstake
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| DAOstake   |  | [0xd8F59a99acfc597fEB84914fEf3769DEf87E7553](https://kovan.etherscan.io/address/0xd8F59a99acfc597fEB84914fEf3769DEf87E7553) |
+| DAOstake   | [0x8437a6bf9235fD003d50cD4024Fa7Ec6979208d5](https://etherscan.io/address/0x8437a6bf9235fD003d50cD4024Fa7Ec6979208d5) | [0xd8F59a99acfc597fEB84914fEf3769DEf87E7553](https://kovan.etherscan.io/address/0xd8F59a99acfc597fEB84914fEf3769DEf87E7553) |
 
 ### Yearn Fighter
 
