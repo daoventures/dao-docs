@@ -104,14 +104,14 @@ Notes:
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x626C25cA5b86277f395c0E40DBdF51f2a302aB43](https://kovan.etherscan.io/address/0x626C25cA5b86277f395c0E40DBdF51f2a302aB43)  |
-| DAO FAANG Stonk Vault |  | [0xe97F5e5A755F8e633d23A2bae167b628deC22948](https://kovan.etherscan.io/address/0xe97F5e5A755F8e633d23A2bae167b628deC22948)  |
+| DAO FAANG Stonk Vault |  | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Strategy | [0x8a00046Ab28051a952e64a886cd8961ca90A59Bd](https://etherscan.io/address/0x8a00046Ab28051a952e64a886cd8961ca90A59Bd) | [0xc9939B0b2af53E8BeCBA22ab153795e168140237](https://kovan.etherscan.io/address/0xc9939B0b2af53E8BeCBA22ab153795e168140237) |
-| DAO FAANG Stonk Strategy |  | [0xCcCeD6278e9c6E68210F3BDC1bc3444e830caD33](https://kovan.etherscan.io/address/0xCcCeD6278e9c6E68210F3BDC1bc3444e830caD33) |
+| DAO FAANG Stonk Strategy |  | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
 
 
 ### Ape
