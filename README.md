@@ -121,11 +121,11 @@ Notes:
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Elon's Ape Vault | [0x2D9a136cF87D599628BCBDfB6C4fe75Acd2A0aA8](https://etherscan.io/address/0x2D9a136cF87D599628BCBDfB6C4fe75Acd2A0aA8) | [0xf03fa8553379d872b4e2Bafbc679409Fb82604c2](https://kovan.etherscan.io/address/0xf03fa8553379d872b4e2Bafbc679409Fb82604c2)  |
-| Cuban's Ape Vault |  | [0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5](https://kovan.etherscan.io/address/0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5)  |
+| Cuban's Ape Vault | [0x2AD9F8d4c24652Ea9F8A954F7E1FdB50a3bE1DFD](https://etherscan.io/address/0x2AD9F8d4c24652Ea9F8A954F7E1FdB50a3bE1DFD) | [0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5](https://kovan.etherscan.io/address/0x5c304A6cB105E1BFf9805cA5CF072F1d2C3bEAC5) |
 
 #### Strategies
 
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Elon's Ape Strategy | [0x24D281dCc7d435500669459eAA393dC5200595B1](https://etherscan.io/address/0x24D281dCc7d435500669459eAA393dC5200595B1) | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
-| Cuban's Ape Strategy |  | [0x998372C8dC70833A7dC687020257302582FA5838](https://kovan.etherscan.io/address/0x998372C8dC70833A7dC687020257302582FA5838) |
+| Cuban's Ape Strategy | [0x7C0f84E9Dc6F721de21D51A490dE6E370fa01cd6](https://etherscan.io/address/0x7C0f84E9Dc6F721de21D51A490dE6E370fa01cd6) | [0x998372C8dC70833A7dC687020257302582FA5838](https://kovan.etherscan.io/address/0x998372C8dC70833A7dC687020257302582FA5838) |
