@@ -36,7 +36,7 @@ Notes:
 ### Upgrade Token
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Upgrade   |  | [0xeFF29F60615413E42B4C0e1d74861DC003C216b2](https://kovan.etherscan.io/address/0xeFF29F60615413E42B4C0e1d74861DC003C216b2) |
+| Upgrade   |  | [0xC314f6527DAC85AcdfE222Cb410133aB6fc09009](https://kovan.etherscan.io/address/0xC314f6527DAC85AcdfE222Cb410133aB6fc09009) |
 
 ### Yearn Fighter
 
