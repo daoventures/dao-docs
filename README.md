@@ -20,7 +20,7 @@ Notes:
 | Token | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | DVG   | [0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c](https://etherscan.io/address/0x51e00a95748DBd2a3F47bC5c3b3E7B3F0fea666c) | [0xea9726eFc9831EF0499fD4Db4Ab143F15a797673](https://kovan.etherscan.io/address/0xea9726eFc9831EF0499fD4Db4Ab143F15a797673) |
-| DVD   |  | [0x6639c554A299D58284e36663f609a7d94526fEC0](https://kovan.etherscan.io/address/0x6639c554A299D58284e36663f609a7d94526fEC0) |
+| DVD   | [0x77dcE26c03a9B833fc2D7C31C22Da4f42e9d9582](https://etherscan.io/address/0x77dcE26c03a9B833fc2D7C31C22Da4f42e9d9582) | [0x6639c554A299D58284e36663f609a7d94526fEC0](https://kovan.etherscan.io/address/0x6639c554A299D58284e36663f609a7d94526fEC0) |
 
 ### vipDVG
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
