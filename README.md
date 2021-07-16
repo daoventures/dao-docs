@@ -26,7 +26,8 @@ Notes:
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | xDVG   | [0xD6Ce913C3e81b5e67a6b94d705d9E7cDdf073A7e](https://etherscan.io/address/0xD6Ce913C3e81b5e67a6b94d705d9E7cDdf073A7e) | [0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424](https://kovan.etherscan.io/address/0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424) |
-| DVGUniBot   | [0x2Ad5BF4c57Ea6CB626e922449aFdA1113750655D](https://etherscan.io/address/0x2Ad5BF4c57Ea6CB626e922449aFdA1113750655D) | [0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312](https://kovan.etherscan.io/address/0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312) |
+| xDVD   | [0x1193c036833B0010fF80a3617BBC94400A284338](https://etherscan.io/address/0x1193c036833B0010fF80a3617BBC94400A284338) |  |
+| DVGUniBot   | [0x161793275aEB70030239A2e176669B73AC8Fc41f](https://etherscan.io/address/0x161793275aEB70030239A2e176669B73AC8Fc41f) | [0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312](https://kovan.etherscan.io/address/0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312) |
 
 ### DAOstake
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
