@@ -15,6 +15,14 @@ Notes:
 1. TUSD in Kovan network need to invoke <b>mint</b> method from the token contract [0xf0a112a9Da3CaE4668270729C3d5917b6cb79564](https://kovan.etherscan.io/address/0xf0a112a9da3cae4668270729c3d5917b6cb79564) yourself.
 2. USDT, DAI and USDC in Kovan network can be obtained from the faucet from Withdraw section of the token from [https://app.compound.finance/](https://app.compound.finance/).
 
+Notes For Polygon:
+1. USDT, USDC and DAI in Polygon Testnet (Mumbai network) can be obtained by calling <b>mint()</b> from [0x7d7a29f7E499eAB66be899A0f6F89FfC57208338](https://mumbai.polygonscan.com/address/0x7d7a29f7E499eAB66be899A0f6F89FfC57208338#writeContract). Please pass amount in 6 decimals for USDT and USDC , 18 decimals for DAI into mint().
+| Token | Polygon Testnet Address
+| ----- | ----------------------------------------------------------------------------------------------------------------------------- |
+| USDT  | [0xBD21A10F619BE90d6066c941b04e340841F1F989](https://mumbai.polygonscan.com/address/0xBD21A10F619BE90d6066c941b04e340841F1F989) |
+| USDC  | [0x2058A9D7613eEE744279e3856Ef0eAda5FCbaA7e](https://mumbai.polygonscan.com/address/0x2058A9D7613eEE744279e3856Ef0eAda5FCbaA7e) |
+| DAI   | [0x001B3B4d0F3714Ca98ba10F6042DaEbF0B1B7b6F](https://mumbai.polygonscan.com/address/0x001B3B4d0F3714Ca98ba10F6042DaEbF0B1B7b6F) |
+
 ### Token Address
 
 | Token | Mainnet Address                                                                                                       | Kovan Address
