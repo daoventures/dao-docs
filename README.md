@@ -145,3 +145,18 @@ Notes For Polygon:
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Elon's Ape Strategy | [0x24D281dCc7d435500669459eAA393dC5200595B1](https://etherscan.io/address/0x24D281dCc7d435500669459eAA393dC5200595B1) | [0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1](https://kovan.etherscan.io/address/0xa4f71f88bd522b33af3ae515caafa956bd1bbfa1) |
 | Cuban's Ape Strategy | [0x7C0f84E9Dc6F721de21D51A490dE6E370fa01cd6](https://etherscan.io/address/0x7C0f84E9Dc6F721de21D51A490dE6E370fa01cd6) | [0x998372C8dC70833A7dC687020257302582FA5838](https://kovan.etherscan.io/address/0x998372C8dC70833A7dC687020257302582FA5838) |
+
+
+### Polygon Products
+
+#### Vaults
+
+| Vaults             | Matic Address                                                                                                               | Mumbai Address                                                                                                                |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Money Printer Vault | [0x7e515e00e2d605D763Ffe25fd7b1e00F8Fd97a16](https://polygonscan.com/address/0x7e515e00e2d605D763Ffe25fd7b1e00F8Fd97a16) | [0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c](https://mumbai.polygonscan.com/address/0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c)  |
+
+#### Strategies
+
+| Strategies           | Matic Address                                                                                                               | Mumbai Address                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Money Printer Strategy | [0x111DE482A01eB87875d18f8C1131FCA709b6a646](https://polygonscan.com/address/0x111DE482A01eB87875d18f8C1131FCA709b6a646) | [0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F](https://mumbai.polygonscan.com/address/0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F) |
