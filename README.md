@@ -120,7 +120,7 @@ Notes For Polygon:
 | Vaults             | Address                                                                                                               | Kovan Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x626C25cA5b86277f395c0E40DBdF51f2a302aB43](https://kovan.etherscan.io/address/0x626C25cA5b86277f395c0E40DBdF51f2a302aB43)  |
-| DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x4a73Dd597B8257E651Ef12Fd04a91a8819C89416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
+| DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 
 #### Strategies
 
