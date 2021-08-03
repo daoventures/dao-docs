@@ -153,10 +153,10 @@ Notes For Polygon:
 
 | Vaults             | Matic Address                                                                                                               | Mumbai Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Money Printer Vault | [0x7e515e00e2d605D763Ffe25fd7b1e00F8Fd97a16](https://polygonscan.com/address/0x7e515e00e2d605D763Ffe25fd7b1e00F8Fd97a16) | [0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c](https://mumbai.polygonscan.com/address/0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c)  |
+| Money Printer Vault | [0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2](https://polygonscan.com/address/0x3DB93e95c9881BC7D9f2C845ce12e97130Ebf5f2) | [0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c](https://mumbai.polygonscan.com/address/0x4f0bC6Bd6bEB231087781336Bacd5613527Ac63c)  |
 
 #### Strategies
 
 | Strategies           | Matic Address                                                                                                               | Mumbai Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Money Printer Strategy | [0x111DE482A01eB87875d18f8C1131FCA709b6a646](https://polygonscan.com/address/0x111DE482A01eB87875d18f8C1131FCA709b6a646) | [0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F](https://mumbai.polygonscan.com/address/0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F) |
+| Money Printer Strategy | [0x822427cd2a5a69e810301626bb355450A47c60EA](https://polygonscan.com/address/0x822427cd2a5a69e810301626bb355450A47c60EA) | [0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F](https://mumbai.polygonscan.com/address/0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F) |
