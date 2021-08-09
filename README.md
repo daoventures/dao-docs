@@ -127,7 +127,7 @@ Notes For Polygon:
 | Strategies           | Address                                                                                                               | Kovan Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | DAO Citadel Strategy | [0x8a00046Ab28051a952e64a886cd8961ca90A59Bd](https://etherscan.io/address/0x8a00046Ab28051a952e64a886cd8961ca90A59Bd) | [0xc9939B0b2af53E8BeCBA22ab153795e168140237](https://kovan.etherscan.io/address/0xc9939B0b2af53E8BeCBA22ab153795e168140237) |
-| DAO FAANG Stonk Strategy | [0x4a73Dd597B8257E651Ef12Fd04a91a8819C89416](https://etherscan.io/address/0x50B9b72bfd352327f76ae59f8878653545376e59) | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
+| DAO FAANG Stonk Strategy | [0x4a73dd597b8257e651ef12fd04a91a8819c89416](https://etherscan.io/address/0x4a73dd597b8257e651ef12fd04a91a8819c89416) | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
 
 
 ### Ape
