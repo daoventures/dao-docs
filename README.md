@@ -159,4 +159,4 @@ Notes For Polygon:
 
 | Strategies           | Matic Address                                                                                                               | Mumbai Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Money Printer Strategy | [0x822427cd2a5a69e810301626bb355450A47c60EA](https://polygonscan.com/address/0x822427cd2a5a69e810301626bb355450A47c60EA) | [0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F](https://mumbai.polygonscan.com/address/0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F) |
+| Money Printer Strategy | [0x4728a38b6b00cdff9fdc59ace8e3c7ef3c6560e5](https://polygonscan.com/address/0x4728a38b6b00cdff9fdc59ace8e3c7ef3c6560e5) | [0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F](https://mumbai.polygonscan.com/address/0x8894Da48bB8b7F7751Ac4e2c37eD31B68D0c587F) |
