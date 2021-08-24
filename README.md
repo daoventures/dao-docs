@@ -36,7 +36,7 @@ Notes For Polygon:
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | xDVG   | [0xD6Ce913C3e81b5e67a6b94d705d9E7cDdf073A7e](https://etherscan.io/address/0xD6Ce913C3e81b5e67a6b94d705d9E7cDdf073A7e) | [0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424](https://kovan.etherscan.io/address/0x3aa8e8B6D3562a1E7aCB0dddD02b27896C00c424) |
 | xDVD   | [0x1193c036833B0010fF80a3617BBC94400A284338](https://etherscan.io/address/0x1193c036833B0010fF80a3617BBC94400A284338) |  [0x4bb18f377a9D2dD62a6af7D78f6e7673E0e0f648](https://kovan.etherscan.io/address/0x4bb18f377a9D2dD62a6af7D78f6e7673E0e0f648) ||
-| DVGUniBot   | [0x161793275aEB70030239A2e176669B73AC8Fc41f](https://etherscan.io/address/0x161793275aEB70030239A2e176669B73AC8Fc41f) | [0xCD3e01fDCF37d76F95F265001969695d00505d9f](https://kovan.etherscan.io/address/0xCD3e01fDCF37d76F95F265001969695d00505d9f) |
+| DVGUniBot   | [0x161793275aEB70030239A2e176669B73AC8Fc41f](https://etherscan.io/address/0x161793275aEB70030239A2e176669B73AC8Fc41f) | [0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312](https://kovan.etherscan.io/address/0xe69A6b578bDe7C8E1Ab5D38cBe988F0d54F1B312) |
 | DVDUniBot   | [0x118875dc986485FE53ED5B2cD6750A9150566C8f](https://etherscan.io/address/0x118875dc986485FE53ED5B2cD6750A9150566C8f) | [0xCD3e01fDCF37d76F95F265001969695d00505d9f](https://kovan.etherscan.io/address/0xCD3e01fDCF37d76F95F265001969695d00505d9f) |
 
 ### DAOstake
