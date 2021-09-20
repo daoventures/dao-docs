@@ -123,7 +123,7 @@ Notes For Polygon:
 | DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x626C25cA5b86277f395c0E40DBdF51f2a302aB43](https://kovan.etherscan.io/address/0x626C25cA5b86277f395c0E40DBdF51f2a302aB43)  |
 | DAO Citadel V2 Vault |  | [0x6435b8fc860381a7088ccd745fc73f5c844e8bad](https://kovan.etherscan.io/address/0x6435B8fc860381A7088ccD745FC73F5c844e8Bad)  |
 | DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
-| DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0xcbb69e3621ce4eb0d99b60f0e0430dcd5f52fc95](https://kovan.etherscan.io/address/0xcBb69E3621ce4EB0d99B60f0E0430dCD5f52fC95)  |
+| DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0x98f98780B7d044e92035a374185957181BB589c9](https://kovan.etherscan.io/address/0x98f98780B7d044e92035a374185957181BB589c9)  |
 | DAO Stonks Vault |  | [0x7739933d775bf2ed5eaec76bc61c581a82e25b0c](https://kovan.etherscan.io/address/0x7739933d775BF2eD5EAEC76BC61c581A82e25b0c)  |
 
 #### Strategies
