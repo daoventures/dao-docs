@@ -123,6 +123,7 @@ Notes For Polygon:
 | DAO Citadel Vault | [0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066](https://etherscan.io/address/0x8fE826cC1225B03Aa06477Ad5AF745aEd5FE7066) | [0x626C25cA5b86277f395c0E40DBdF51f2a302aB43](https://kovan.etherscan.io/address/0x626C25cA5b86277f395c0E40DBdF51f2a302aB43)  |
 | DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 | DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0xcbb69e3621ce4eb0d99b60f0e0430dcd5f52fc95](https://kovan.etherscan.io/address/0xcBb69E3621ce4EB0d99B60f0E0430dCD5f52fC95)  |
+| DAO Stonks Vault |  | [0x7739933d775bf2ed5eaec76bc61c581a82e25b0c](https://kovan.etherscan.io/address/0x7739933d775BF2eD5EAEC76BC61c581A82e25b0c)  |
 
 #### Strategies
 
@@ -131,6 +132,7 @@ Notes For Polygon:
 | DAO Citadel Strategy | [0x8a00046Ab28051a952e64a886cd8961ca90A59Bd](https://etherscan.io/address/0x8a00046Ab28051a952e64a886cd8961ca90A59Bd) | [0xc9939B0b2af53E8BeCBA22ab153795e168140237](https://kovan.etherscan.io/address/0xc9939B0b2af53E8BeCBA22ab153795e168140237) |
 | DAO FAANG Stonk Strategy | [0x4a73dd597b8257e651ef12fd04a91a8819c89416](https://etherscan.io/address/0x4a73dd597b8257e651ef12fd04a91a8819c89416) | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
 | DAO Metaverse Strategy | [0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2](https://etherscan.io/address/0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2) | [0xf4655E971cc76B6daa78B4615dC2Be4446E67e53](https://kovan.etherscan.io/address/0xf4655E971cc76B6daa78B4615dC2Be4446E67e53) |
+| DAO Stonks Strategy |  | [0xa8a3b0412a25c1183dfcfed6dc7b6acd584a6383](https://kovan.etherscan.io/address/0xa8a3b0412a25c1183dfcfed6dc7b6acd584a6383)  |
 
 
 ### Ape
