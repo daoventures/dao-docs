@@ -125,7 +125,7 @@ Notes For Polygon:
 | DAO Citadel V2 Vault |  | [0xc5719b5e85c30eb6a49d3c1b8058ae2435146c88](https://kovan.etherscan.io/address/0xc5719B5E85c30eB6a49d3C1b8058ae2435146C88)  |
 | DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 | DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0x98f98780B7d044e92035a374185957181BB589c9](https://kovan.etherscan.io/address/0x98f98780B7d044e92035a374185957181BB589c9)  |
-| DAO Stonks Vault |  | [0x7739933d775bf2ed5eaec76bc61c581a82e25b0c](https://kovan.etherscan.io/address/0x7739933d775BF2eD5EAEC76BC61c581A82e25b0c)  |
+| DAO Stonks Vault |  | [0xb8e43526d2fee347f88e690ee86d047895472d04](https://kovan.etherscan.io/address/0xb8e43526D2FEE347F88E690ee86d047895472D04)  |
 
 #### Strategies
 
@@ -135,7 +135,7 @@ Notes For Polygon:
 | DAO Citadel V2 Strategy |  | [0xa2b42a59ee0312a5f9d56dfad90ee6fa4a1be184](https://kovan.etherscan.io/address/0xa2b42a59ee0312a5f9d56dfad90ee6fa4a1be184)  |
 | DAO FAANG Stonk Strategy | [0x4a73dd597b8257e651ef12fd04a91a8819c89416](https://etherscan.io/address/0x4a73dd597b8257e651ef12fd04a91a8819c89416) | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
 | DAO Metaverse Strategy | [0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2](https://etherscan.io/address/0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2) | [0xf4655E971cc76B6daa78B4615dC2Be4446E67e53](https://kovan.etherscan.io/address/0xf4655E971cc76B6daa78B4615dC2Be4446E67e53) |
-| DAO Stonks Strategy |  | [0xa8a3b0412a25c1183dfcfed6dc7b6acd584a6383](https://kovan.etherscan.io/address/0xa8a3b0412a25c1183dfcfed6dc7b6acd584a6383)  |
+| DAO Stonks Strategy |  | [0x9cc2659d2516ecafe1abc1c5b45baf2709a9f597](https://kovan.etherscan.io/address/0x9cc2659d2516ecafe1abc1c5b45baf2709a9f597)  |
 
 
 ### Ape
