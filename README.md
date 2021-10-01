@@ -17,6 +17,9 @@ Notes:
 
 Notes For Polygon:
 1. USDT, USDC and DAI in Polygon Testnet (Mumbai network) can be obtained by calling <b>mint()</b> from [0x7d7a29f7E499eAB66be899A0f6F89FfC57208338](https://mumbai.polygonscan.com/address/0x7d7a29f7E499eAB66be899A0f6F89FfC57208338#writeContract). Please pass amount in 6 decimals for USDT and USDC , 18 decimals for DAI into mint().
+
+Notes For Binance:
+1. USDT, USDC and DAI in BSC (Testnet) can be obtained from [here](https://testnet.binance.org/faucet-smart). 
 ### USDT, USDC, DAI in Polygon Testnet
 | Token | Polygon Testnet Address
 | ----- | ----------------------------------------------------------------------------------------------------------------------------- |
