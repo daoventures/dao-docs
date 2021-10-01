@@ -180,9 +180,11 @@ Notes For Binance:
 | Vaults             | BSC Mainnet Address                                                                                                               | BSC Testnet Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | DAO Safu Vault |  | [0x81390703430015a751f967694d5ccb8745fda254](https://testnet.bscscan.com/address/0x81390703430015A751F967694d5CCb8745FdA254)  |
+| DAO Degen Vault |  | [0x56f2005c3fec21dd3c21899fbceb1aae5b4bc5da](https://testnet.bscscan.com/address/0x56F2005C3Fec21DD3c21899FbCEb1aAE5B4bc5dA)  |
 
 #### Strategies
 
 | Strategies           |  BSC Mainnet Address                                                                                                               | BSC Testnet Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | DAO Safu Strategy | | [0x7436297148face594f1b2f04a2901c3bb65eb771](https://testnet.bscscan.com/address/0x7436297148faCE594f1b2f04a2901c3bB65Eb771) |
+| DAO Degen Strategy |  | [0xd1fc92873fcc59708cf26e2b8302188735caf526](https://testnet.bscscan.com/address/0xD1Fc92873FcC59708CF26e2b8302188735cAf526)  |
