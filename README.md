@@ -129,6 +129,7 @@ Notes For Binance:
 | DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 | DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0x98f98780B7d044e92035a374185957181BB589c9](https://kovan.etherscan.io/address/0x98f98780B7d044e92035a374185957181BB589c9)  |
 | DAO Stonks Vault |  | [0xb8e43526d2fee347f88e690ee86d047895472d04](https://kovan.etherscan.io/address/0xb8e43526D2FEE347F88E690ee86d047895472D04)  |
+| DAO TA Vault |  | [0xb72b89fa6d222973379cbd9c5c88768e3a050aed](https://kovan.etherscan.io/address/0xb72B89Fa6D222973379cbd9c5C88768e3a050Aed)  |
 
 #### Strategies
 
@@ -139,6 +140,7 @@ Notes For Binance:
 | DAO FAANG Stonk Strategy | [0x4a73dd597b8257e651ef12fd04a91a8819c89416](https://etherscan.io/address/0x4a73dd597b8257e651ef12fd04a91a8819c89416) | [0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4](https://kovan.etherscan.io/address/0xC0f43B6DB13E5988C92Aa8c7c286A51f493620D4) |
 | DAO Metaverse Strategy | [0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2](https://etherscan.io/address/0xfa83CA66FDaCC4028DAB383de4adc8aB7DB21FF2) | [0xf4655E971cc76B6daa78B4615dC2Be4446E67e53](https://kovan.etherscan.io/address/0xf4655E971cc76B6daa78B4615dC2Be4446E67e53) |
 | DAO Stonks Strategy |  | [0x9cc2659d2516ecafe1abc1c5b45baf2709a9f597](https://kovan.etherscan.io/address/0x9cc2659d2516ecafe1abc1c5b45baf2709a9f597)  |
+| DAO TA Strategy |  | [0x8a3cbce40a8f92a1f27b250f0c9061ceeae328be](https://kovan.etherscan.io/address/0x8a3cbce40a8f92a1f27b250f0c9061ceeae328be)  |
 
 
 ### Ape
