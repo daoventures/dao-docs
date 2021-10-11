@@ -51,7 +51,7 @@ Notes For Binance:
 | Contracts | Mainnet Address                                                                                                       | Kovan Address
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Upgrade   | [0x61FfA596ABBbA47fE6014bDa91F894B2Dae6dE05](https://etherscan.io/address/0x61FfA596ABBbA47fE6014bDa91F894B2Dae6dE05) | [0xC314f6527DAC85AcdfE222Cb410133aB6fc09009](https://kovan.etherscan.io/address/0xC314f6527DAC85AcdfE222Cb410133aB6fc09009) |
-| AirDrop   |  | [0xBcf5ceF54bCa1b0591eE487bac567E7182bf8c7d](https://kovan.etherscan.io/address/0xBcf5ceF54bCa1b0591eE487bac567E7182bf8c7d) |
+| AirDrop   | [0x9494C485Cd5Ea1BD5e0c4229fc8f80cBA814656C](https://etherscan.io/address/0x9494C485Cd5Ea1BD5e0c4229fc8f80cBA814656C) | [0xBcf5ceF54bCa1b0591eE487bac567E7182bf8c7d](https://kovan.etherscan.io/address/0xBcf5ceF54bCa1b0591eE487bac567E7182bf8c7d) |
 
 ### Yearn Fighter
 
