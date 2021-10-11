@@ -129,7 +129,7 @@ Notes For Binance:
 | DAO FAANG Stonk Vault | [0x9ee54014e1E6CF10fD7E9290FdB6101fd0d5D416](https://etherscan.io/address/0x9ee54014e1e6cf10fd7e9290fdb6101fd0d5d416) | [0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1](https://kovan.etherscan.io/address/0xd6AF81E5288Be43137dEBf969D7f2C03482C8cC1)  |
 | DAO Metaverse Vault | [0x5b3ae8b672a753906b1592d44741f71fbd05ba8c](https://etherscan.io/address/0x5b3ae8b672a753906b1592d44741f71fbd05ba8c) | [0xb2953c89615069fa6c14f3db3a09b7ecc077f533](https://kovan.etherscan.io/address/0xb2953c89615069fa6c14F3db3a09b7Ecc077f533)  |
 | DAO Stonks Vault | [0xd0b14644b0f91239075ed8a415769c4e20d37cf9](https://etherscan.io/address/0xd0b14644b0f91239075ed8a415769c4e20d37cf9)  | [0xb8e43526d2fee347f88e690ee86d047895472d04](https://kovan.etherscan.io/address/0xb8e43526D2FEE347F88E690ee86d047895472D04)  |
-| DAO TA Vault |  | [0xb72b89fa6d222973379cbd9c5c88768e3a050aed](https://kovan.etherscan.io/address/0xb72B89Fa6D222973379cbd9c5C88768e3a050Aed)  |
+| DAO TA Vault | [0xAE6637A2e583295654989ADcfB3221691bB490EF](https://etherscan.io/address/0xAE6637A2e583295654989ADcfB3221691bB490EF) | [0xb72b89fa6d222973379cbd9c5c88768e3a050aed](https://kovan.etherscan.io/address/0xb72B89Fa6D222973379cbd9c5C88768e3a050Aed)  |
 
 #### Strategies
 
