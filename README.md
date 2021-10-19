@@ -182,14 +182,14 @@ Notes For Binance:
 | Vaults             | BSC Mainnet Address                                                                                                               | BSC Testnet Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | DAO Safu Vault | [0xB9E35635084B8B198f4bF4EE787D5949b46338f1](https://bscscan.com/address/0xB9E35635084B8B198f4bF4EE787D5949b46338f1) | [0x81390703430015a751f967694d5ccb8745fda254](https://testnet.bscscan.com/address/0x81390703430015A751F967694d5CCb8745FdA254)  |
-| DAO Degen Vault |  | [0x56f2005c3fec21dd3c21899fbceb1aae5b4bc5da](https://testnet.bscscan.com/address/0x56F2005C3Fec21DD3c21899FbCEb1aAE5B4bc5dA)  |
+| DAO Degen Vault | [0x5E5d75c2d1eEC055e8c824c6C4763b59d5c7f065](https://bscscan.com/address/0x5E5d75c2d1eEC055e8c824c6C4763b59d5c7f065) | [0x56f2005c3fec21dd3c21899fbceb1aae5b4bc5da](https://testnet.bscscan.com/address/0x56F2005C3Fec21DD3c21899FbCEb1aAE5B4bc5dA)  |
 
 #### Strategies
 
 | Strategies           |  BSC Mainnet Address                                                                                                               | BSC Testnet Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | DAO Safu Strategy | [0xdac6E0CD7A535038f5d836155784603FaC1ba23d](https://bscscan.com/address/0xdac6E0CD7A535038f5d836155784603FaC1ba23d) | [0x7436297148face594f1b2f04a2901c3bb65eb771](https://testnet.bscscan.com/address/0x7436297148faCE594f1b2f04a2901c3bB65Eb771) |
-| DAO Degen Strategy |  | [0xd1fc92873fcc59708cf26e2b8302188735caf526](https://testnet.bscscan.com/address/0xD1Fc92873FcC59708CF26e2b8302188735cAf526)  |
+| DAO Degen Strategy | [0xeAa8c430d17c894134AcFA0561853F37363CE887](https://bscscan.com/address/0xeAa8c430d17c894134AcFA0561853F37363CE887) |  [0xd1fc92873fcc59708cf26e2b8302188735caf526](https://testnet.bscscan.com/address/0xD1Fc92873FcC59708CF26e2b8302188735cAf526)  |
 
 
 ### Avalanche Products
