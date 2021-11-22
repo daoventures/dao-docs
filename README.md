@@ -198,7 +198,7 @@ Notes For Binance:
 
 | Vaults             | Avalanche Mainnet Address                                                                                                               | Avalanche Testnet Address                                                                                                                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| DAO AXA Vault |  | [0x0b0e5b52e14152308f9f952ff19c67ebeb7560bb](https://cchain.explorer.avax-test.network/address/0x0b0E5B52e14152308f9F952FF19C67ebeB7560BB)  |
+| DAO AXA Vault |  [0xE4809Ed214631017737A3d7FA3e78600Ee96Eb85](https://snowtrace.io/address/0xE4809Ed214631017737A3d7FA3e78600Ee96Eb85)| [0x0b0e5b52e14152308f9f952ff19c67ebeb7560bb](https://cchain.explorer.avax-test.network/address/0x0b0E5B52e14152308f9F952FF19C67ebeB7560BB)  |
 | DAO AXS Vault |  | [0xdf9fc6774937bf42602be1f80ab3da8a0b2a8594](https://cchain.explorer.avax-test.network/address/0xDF9fC6774937bf42602be1F80aB3da8a0b2a8594)  |
 | DAO ASA Vault |  | [0x0d79f121fd1eb213e5dbde11edbe7744ecb51352](https://cchain.explorer.avax-test.network/address/0x0D79F121Fd1eB213E5DbDE11eDbe7744ECb51352)  |
 | DAO A2S Vault |  | [0x89d6fd8ba3eaf76687cf7b3d10f914cc445eaec1](https://cchain.explorer.avax-test.network/address/0x89D6Fd8ba3EAF76687cF7B3d10F914cc445eaeC1)  |
